@@ -1,0 +1,49 @@
+THE GOOD FOOD COMPANY — Image placement map
+============================================
+
+GENERATED IMAGES (latest batch — AI-generated, copied into site)
+----------------------------------------------------------------
+Source backup folder:
+  C:\Users\dimor\.cursor\projects\h-thegoodfoodcompony\assets\
+
+Site folder:
+  H:\thegoodfoodcompony\images\
+
+File                          | Used on
+------------------------------|------------------------------------------
+images/hero-bg.jpg            | index.html hero background
+                              | contact.html page hero
+                              | logistics.html page hero
+                              | careers.html page hero
+
+images/about-banner.jpg       | index.html intro section photo
+                              | about.html hero + about photo section
+                              | become-supplier.html hero + side image
+
+images/products/onion.jpg     | index.html hero bento (main) + product card
+                              | products.html product card
+
+images/products/potato.jpg    | index.html hero bento + product card
+                              | products.html product card
+
+images/products/garlic.jpg    | index.html hero bento + product card
+                              | products.html product card
+
+images/products/tomato.jpg    | index.html hero bento + product card
+                              | products.html product card
+
+USER-PROVIDED (not generated)
+-----------------------------
+images/logo.png               | All pages — header logo, footer logo, favicon
+images/logo.svg               | Legacy SVG (not used in HTML; logo.png is active)
+
+OLDER IMAGES (still on disk, optional use)
+------------------------------------------
+images/categories/*.jpg       | Legacy category photos (older batch)
+images/products/coffee.jpg    | Legacy — not used on current GCC bulk site
+images/products/tea.jpg       | Legacy
+images/products/rice.jpg      | Legacy
+etc.
+
+To replace any generated image: overwrite the file at the path above
+and hard-refresh the browser (Ctrl+Shift+R).
