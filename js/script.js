@@ -321,7 +321,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var accessKeyInput = form.querySelector('input[name="access_key"]');
       var accessKey = accessKeyInput ? accessKeyInput.value.trim() : "";
       if (!accessKey || accessKey === "YOUR_WEB3FORMS_ACCESS_KEY" || accessKey === "YOUR_ACCESS_KEY_HERE") {
-        accessKey = "dd571b62-7775-4425-8cc1-f38d3ab72f9f";
+        accessKey = "3f310507-fb89-4555-81b7-9ccddd95e01e";
         if (accessKeyInput) accessKeyInput.value = accessKey;
       }
 
