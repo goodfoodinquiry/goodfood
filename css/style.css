@@ -1127,7 +1127,6 @@ body {
     transform 0.3s var(--ease),
     box-shadow 0.3s;
   text-align: left;
-  group: product;
 }
 
 .product-card:hover {
